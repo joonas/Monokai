@@ -83,6 +83,10 @@ div[type=topic] p span.message {
     margin-left: 7.5em;
 }
 
+body[type=talk] #topic_bar, body[type=server] #topic_bar {
+    display: none;
+}
+
 #topic_bar {
   top: 0;
   left: 0;

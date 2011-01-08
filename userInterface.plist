@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Underlying Window Color</key>
+	<string>#272822</string>
+	<key>Server List</key>
+	<dict>
+		<key>Text Font Style</key>
+		<string>Lucida Grande</string>
+		<key>Text Font Size</key>
+		<integer>11</integer>
+		<key>Background Color</key>
+        <!-- <string>#2c2d27</string> -->
+        <string>#31322c</string>
+		<key>Highlight Color</key>
+		<string>#F92672</string>
+		<key>New Private Message Color</key>
+		<string>#d33b54</string>
+		<key>Unread Color</key>
+		<string>#66D9EF</string>
+		<key>Active Color</key>
+		<string>#E6DB74</string>
+		<key>Inactive Color</key>
+		<string>#585858</string>
+		<key>Active Color (Selected)</key>
+		<string>#fff</string>
+		<key>Inactive Color (Selected)</key>
+		<string>#e7e7e7</string>
+		<key>Gradient</key>
+		<dict>
+			<key>Top Color</key>
+			<string>#49483E</string>
+			<key>Bottom Color</key>
+			<string>#31322c</string>
+			<key>Top Line Color</key>
+			<string>#363731</string>
+			<key>Bottom Line Color</key>
+			<string>#2c2d27</string>
+		</dict>
+	</dict>
+	<key>Member List</key>
+	<dict>
+		<key>Text Font Style</key>
+		<string>Lucida Grande</string>
+		<key>Text Font Size</key>
+		<integer>11</integer>
+		<key>Background Color</key>
+		<string>#31322c</string>
+		<key>Text Color</key>
+		<string>#E6DB74</string>
+		<key>Op Text Color</key>
+		<string>#F92672</string>
+		<key>Text Color (Selected)</key>
+		<string>#fff</string>
+		<key>Gradient</key>
+		<dict>
+			<key>Top Color</key>
+			<string>#49483E</string>
+			<key>Bottom Color</key>
+			<string>#31322c</string>
+			<key>Top Line Color</key>
+			<string>#363731</string>
+			<key>Bottom Line Color</key>
+			<string>#2c2d27</string>
+		</dict>
+	</dict>
+	<key>Input Box</key>
+	<dict>
+		<key>Text Font Style</key>
+		<string></string>
+		<key>Text Font Size</key>
+		<integer>0</integer>
+		<key>Background Color</key>
+		<string>#49483e</string>
+		<key>Text Color</key>
+		<string>#ccc</string>
+	</dict>
+</dict>
+</plist>

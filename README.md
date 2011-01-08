@@ -10,5 +10,5 @@ Oh, and don't hold me responsible if it somehow breaks something of yours (or an
 
 As simple as:
 
-$ cd ~/Library/Application\ Support/Textual/Styles
+$ cd ~/Library/Application\ Support/Textual/Styles  
 $ git clone https://github.com/joonas/Monokai.git

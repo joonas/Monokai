@@ -63,6 +63,14 @@ a {}
   white-space: nowrap;
 }
 
+body div[type=privmsg][highlight=true],
+body div[type=action][highlight=true] {
+  font-weight: normal;
+  border-top: 1px solid #988C00;
+  border-bottom: 1px solid #988C00;
+  background-color: #362C00 !important;
+}
+
 .line[highlight=true] {
   background-color: #272822;
 }
